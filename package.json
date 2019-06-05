@@ -1,0 +1,23 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "www.slowslipper.com",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slowslipper/www.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slowslipper/www/issues"
+  },
+  "homepage": "https://github.com/slowslipper/www#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
